@@ -1,0 +1,70 @@
+body {
+    background-color: #e72a7c;
+}
+
+.Contenedor {
+    background-color: white;
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-top: 200px;
+    margin-bottom: 100px;
+    padding-bottom: 30px;
+    padding-top: 30px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.contenedor1 {
+    display: flex;
+    justify-content: center;
+}
+
+.Titulo {
+    margin-left: 5%;
+    margin-right: 5%;
+    font-size: 32px;
+    display: flex;
+}
+
+.Imagen1 {
+    display: flex;
+    width: 100px;
+    height: 100px;
+    float: left;
+    margin-right: 300px;
+}
+
+.Imagen2 {
+    display: flex;
+    width: 100px;
+    height: 100px;
+    margin-left: 300px;
+}
+
+.Nombre {
+   margin-left: 48%;
+   justify-content: center;
+}
+
+.Usuario {
+    margin-left: 31%;
+    padding-right: 370px;
+}
+.Email {
+    margin-left: 49%;
+ }
+
+.Contra {
+    margin-left: 47%;
+}
+
+ .boton {
+    margin-left: 46%;
+    font-size: 20px;
+    padding-right: 25px;
+    padding-left: 25px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+
+ }
+
